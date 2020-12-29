@@ -3,7 +3,7 @@
 
 name: build
 
-on: any
+on: push
 
 jobs:
   build:
